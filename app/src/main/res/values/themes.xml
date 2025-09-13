@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Estilo para la esquina del ShapeAppearanceOverlay -->
+    <style name="Theme.Paies" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Aquí puedes personalizar las características del tema si es necesario -->
+    </style>
+    <style name="ShapeAppearanceOverlay.App.CornerSize" parent="">
+        <item name="cornerFamily">cut</item>
+        <item name="cornerSize">12dp</item>
+    </style>
+</resources>
